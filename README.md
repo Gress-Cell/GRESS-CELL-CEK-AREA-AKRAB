@@ -257,11 +257,6 @@
             <td>Area 2</td>
         </tr>
         <tr>
-            <td>TKP</td>
-            <td>KABUPATEN</td>
-            <td>Area 2</td>
-        </tr>
-        <tr>
             <td>Sulawesi Barat</td>
             <td>Kab. Majene, Kab. Polewali Mandar, Kab. Mamuju Utara</td>
             <td>Area 3</td>
