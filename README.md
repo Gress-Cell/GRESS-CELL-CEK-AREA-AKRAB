@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabel Area</title>
 </head>
 <body>
     <h2>Daftar Kota/Kabupaten dan Area</h2>
