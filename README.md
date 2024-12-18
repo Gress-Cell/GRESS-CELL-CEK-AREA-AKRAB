@@ -66,19 +66,9 @@
             <td>Area 3</td>
         </tr>
         <tr>
-            <td>TKP</td>
-            <td>KABUPATEN</td>
-            <td>Area 2</td>
-        </tr>
-        <tr>
             <td>Jawa barat</td>
             <td>Kab. Cianjur, Kab. Pangandaran, Kab. Karawang, Kota Sukabumi, Kab. Sukabumi</td>
             <td>Area 2</td>
-        </tr>
-        <tr>
-            <td>TKP</td>
-            <td>KABUPATEN</td>
-            <td>Area 4</td>
         </tr>
         <tr>
             <td>Jawa Tengah</td>
