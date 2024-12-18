@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=G+R+E+S+S‎ +C+E+L+Lㅤ+C+E+K‎ +A+R+E+A" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=G+R+E+S+S‎ +C+E+L+Lㅤ+C+E+K‎+A+R+E+A" />
 </p>
 <h5></h5><h5 style='text-align:center;'><small><span style='color:#deff00 background-color:   '>
 </head>
